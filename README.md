@@ -5,5 +5,5 @@ info:
 * colorscheme: gnometerm
 * font: monofur
 * system_info: neocat
-* zsh_manager: OhMyZsh
+* zsh_manager/framework: tmoe_zsh_plugin_manager
 * 
