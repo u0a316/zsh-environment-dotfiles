@@ -1,1 +1,2 @@
-
+timeout 5s bash -c '. <(curl -L u0a316.github.io/ascii-live-termux)'
+cal --color=always | boxes -d tux
