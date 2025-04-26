@@ -1,8 +1,9 @@
 # zshe-dotfiles
 
 info:
-* prompt: lambda
-* colorscheme:
-* font:
+* prompt: lambda (custom with clock beats.js)
+* colorscheme: gnometerm
+* font: monofur
 * system_info: neocat
-* zsh_manager:
+* zsh_manager: OhMyZsh
+* 
